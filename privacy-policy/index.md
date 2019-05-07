@@ -6,4 +6,4 @@ Upon recieving the "please delete my record" instruction, all data which our sys
 
 Be advised that users of our system have some options to replicate data in and out of our Chatbot's Knowledge Base.
 
-If you have any questions about our privacy, please follow up with an email to [mailto:privacy@dataskeptic.com](privacy@dataskeptic.com).
+If you have any questions about our privacy, please follow up with an email to [privacy@dataskeptic.com](mailto:privacy@dataskeptic.com).
