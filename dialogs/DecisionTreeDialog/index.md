@@ -1,4 +1,4 @@
-# Standard Dialogs
+# Decision Tree Dialogs
 
 ##Overview Video##
 
