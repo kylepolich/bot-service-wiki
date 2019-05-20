@@ -1,6 +1,6 @@
 # Dialogs
 
-Decision Trees
+[Decision Trees](./decision-tree)
 
-FAQ
+[FAQ](./faq)
 
