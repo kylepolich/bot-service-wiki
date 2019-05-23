@@ -1,1 +1,1 @@
-# FAQ Dialog
+# Frequently Asked Questions

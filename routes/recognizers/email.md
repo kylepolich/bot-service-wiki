@@ -1,3 +1,3 @@
 # Email Recognizer Route
 
-Cehcks for emails
+Matches email
