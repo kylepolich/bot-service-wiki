@@ -2,7 +2,7 @@
 
 For certain situations, you may wish for your Chatbot to hand over the controls to a human operator.  The "Transfer to Human" Dialog makes that possible.
 
-## Try it!
+## Try it!!!!
 
 * Create or reuse a Chatbot
 * Create a new Dialog of this Type
