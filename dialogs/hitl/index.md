@@ -10,3 +10,8 @@ For certain situations, you may wish for your Chatbot to hand over the controls 
 * Open the Dialog page
 * In a separate window, talk to your Chatbot
 
+
+
+
+Hi
+
