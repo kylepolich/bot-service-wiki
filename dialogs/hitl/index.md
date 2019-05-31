@@ -9,4 +9,3 @@ For certain situations, you may wish for your Chatbot to hand over the controls 
 * Add that Dialog to your Chatbot's logic
 * Open the Dialog page
 * In a separate window, talk to your Chatbot
-
