@@ -14,4 +14,4 @@ In addition to the Primary Integrations, there are numerous **Add-ons** being ad
 * [Airtable](./integrations/airtable)
 * [AWS](./integrations/aws)
 * [Hubspot](./integrations/hubspot)
-* or see a full list [here](./integrations/index)
+* or see a full list [here](./integrations)
