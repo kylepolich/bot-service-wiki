@@ -1,18 +1,18 @@
-# Chatbots Guidebook
+# Welcome!  Let's start building!!
 
-This section of the site will help you learn how to develop your own Chatbot using this sytem.  There are a variety of options and tools available.  We've done our best to make the system easy to learn piece by piece, so feel free to explore this guide in any order.
+The Data Skeptic Chatbot Builder is a platform for creating, deploying, and tracking Bots.
 
-## Quickstart
+It's distinguishing features are:
 
-TODO: write quickstart guide
+* As easy to use as Excel
+* Great developer features like Lambda Function integration and Webhook options
+* Multi-channel (Connects to web, facebook, slack, sms, and many others to come)
+* Leverages cutting edge NLP
+* Built in analytics platform
+* Fun to build!
 
-TODO: add a video
+Our system has a large and growing library of examples and templates which you can easily clone to start building your own Bot.  Or, build from scratch, taking advantage of a variety of tools to develop your Chatbot.  Our platform lets you have fine grain control if you want it or let the system infer some details using the latest in deep learning models of natural language processing.
 
-## Definitions
+Our system is a scalable, multi-platform solution for you to create your own Chatbots for business or fun.
 
-**Bot** - A distinct Chatbot which is connected to one or more [Integrations](./integrations).
-
-**Dialog** - A Bot is composed of one or more Dialogs.  Each Dialog handles a specific aspect of conversation.  Dialogs come in different types.  For example the [FAQ Dialog](./dialogs/faq) is an intuitive Dialog that makes a great place to start.  One of the most popular Dialogs is the [Decision Tree Dialog](./dialogs/decision-tree/)
-
-
-
+Check out our [getting started](getting-started/) guide.
