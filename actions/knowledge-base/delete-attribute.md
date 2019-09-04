@@ -1,3 +1,3 @@
 # Delete Attribute
 
-Remove a value from the Conversation State.
+Remove an [Attribute](./conversations/attributes) from the [Conversation State](./conversations).
