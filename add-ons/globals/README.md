@@ -7,3 +7,6 @@ For example, if you want your Bot to respond with a phone number, but you'd like
 > You can reach me at `{bot.phone_number}` on weekdays from 9am-5pm PST.
 
 The phone number you set will be dynamically populated when this response is sent to the user.  You can update this value at any time on the Globals tab of your Bot.
+
+
+
