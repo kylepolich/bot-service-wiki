@@ -1,6 +1,6 @@
 # Welcome!  Let's start building!!
 
-The Data Skeptic Chatbot Builder is a platform for creating, deploying, and tracking Bots.
+The Data Skeptic Chatbot Builder is a platform for building, deploying, and tracking Bots.
 
 It's distinguishing features are:
 
@@ -8,6 +8,7 @@ It's distinguishing features are:
 * Great developer features like Lambda Function integration and Webhook options
 * Multi-channel (Connects to web, facebook, slack, sms, and many others to come)
 * Leverages cutting edge NLP
+* Bots can execute many novel actions like sending a follow-up email or creating a Zendesk ticket.
 * Built in analytics platform
 * Fun to build!
 
