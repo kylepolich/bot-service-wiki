@@ -1,4 +1,0 @@
-# WYSIWYG Utterance
-
-T
-

@@ -1,3 +1,0 @@
-# Survey Dialog
-
-TODO: survey
