@@ -1,3 +1,3 @@
-# Send SMS Action
+# Send SMS
 
 It sends a text message.
