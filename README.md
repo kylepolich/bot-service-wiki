@@ -17,4 +17,3 @@ Our system has a large and growing library of examples and templates which you c
 Our system is a scalable, multi-platform solution for you to create your own Chatbots for business or fun.
 
 Check out our [getting started](getting-started/) guide.
-
