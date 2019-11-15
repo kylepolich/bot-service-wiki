@@ -1,3 +1,3 @@
-# Send Email Action
+# Send Email
 
-It sends an email.  Not much else to say about it.
+It sends an email.
