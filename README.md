@@ -1,4 +1,4 @@
-# Welcome!  Let's start building!!!
+# Welcome!  Let's start building!
 
 The Data Skeptic Chatbot Builder is a platform for building, deploying, and tracking Bots.
 
